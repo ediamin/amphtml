@@ -17,7 +17,6 @@ dist
 dist.3p
 dist.tools
 export
-examples/storybook
 extensions/**/dist
 /release
 result-reports
